@@ -1,0 +1,6 @@
+@CW5_ADO_HostAddress = http://localhost:5032
+
+GET {{CW5_ADO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
